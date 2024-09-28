@@ -10,10 +10,10 @@
 <br>
 <div align="center">
   <a href="#">
-    <img height=160 src="https://my-stats-43gk.vercel.app/api?username=mottavsm&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=110&bg_color=000000&border_color=007acc" style="margin-right: 10px;" />
+    <img height=130 src="https://my-stats-43gk.vercel.app/api?username=mottavsm&show_icons=true&theme=dark&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=110&bg_color=000000&border_color=007acc" style="margin-right: 10px;" />
   </a>
   <a href="#">
-    <img height=160 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=mottavsm&hide=html,scss,css&langs_count=8&layout=compact&theme=dark&bg_color=000000&border_color=007acc&card_width=110" />
+    <img height=130 src="https://my-stats-43gk.vercel.app/api/top-langs/?username=mottavsm&hide=html,scss,css&langs_count=8&layout=compact&theme=dark&bg_color=000000&border_color=007acc&card_width=110" />
   </a>
 </div>
 
